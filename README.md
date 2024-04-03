@@ -57,11 +57,14 @@ void loop() {
 ```
 
 ## CIRCUIT DIAGRAM:
-<img src="https://github.com/Migaleyy/Control-of-Relay-Using-IoT-controller/assets/118262199/1161655a-3283-49c7-9010-e49ec852a200" width="400" height="300">
+<img src="https://github.com/Migaleyy/Control-of-Relay-Using-IoT-controller/assets/118262199/296af0b6-3466-4f7e-895f-cb782965dd93" width="400" height="300">
 
 ## OUTPUT:
-<img src="![image](https://github.com/Migaleyy/Control-of-Relay-Using-IoT-controller/assets/118262199/8857f692-31b0-4696-af68-6ad17cd87d97)
-" width="400" height="300">
+### LED ON
+<img src="![image](https://github.com/Migaleyy/Control-of-Relay-Using-IoT-controller/assets/118262199/8760d061-815e-470a-a1f7-36a3a7d589a6)" width="400" height="300">
+
+### LED OFF
+<img src="![image](https://github.com/Migaleyy/Control-of-Relay-Using-IoT-controller/assets/118262199/2d6eef1c-13d6-4000-a246-54bd1ff1d261)" width="400" height="300">
 
 ## RESULT:
 
