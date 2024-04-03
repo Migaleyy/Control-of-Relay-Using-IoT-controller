@@ -41,23 +41,18 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ## PROGRAM:
 ```
-const int Switch=9;
-int button=0;
 void setup() {
   // put your setup code here, to run once:
   pinMode(A0,OUTPUT);
-  pinMode(Switch,INPUT);
+
 }
 
 void loop() {
-  button=digitalRead(Switch); 
-  if (button==HIGH)
-  {
-    digitalWrite(A0,HIGH);
-    delay(1000);
-    digitalWrite(A0,LOW);
-    delay(1000);
-  }
+  // put your main code here, to run repeatedly:
+  digitalWrite(A0,HIGH);
+  delay(3000);
+  digitalWrite(A0,LOW);
+  delay(3000);
 }
 ```
 
@@ -65,7 +60,8 @@ void loop() {
 <img src="https://github.com/Migaleyy/Control-of-Relay-Using-IoT-controller/assets/118262199/1161655a-3283-49c7-9010-e49ec852a200" width="400" height="300">
 
 ## OUTPUT:
-<img src="https://github.com/Migaleyy/Control-of-Relay-Using-IoT-controller/assets/118262199/153bcf70-d445-4061-87a2-c950358dc908" width="400" height="300">
+<img src="![image](https://github.com/Migaleyy/Control-of-Relay-Using-IoT-controller/assets/118262199/8857f692-31b0-4696-af68-6ad17cd87d97)
+" width="400" height="300">
 
 ## RESULT:
 
