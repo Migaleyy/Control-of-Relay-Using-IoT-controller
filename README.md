@@ -1,5 +1,5 @@
-## NAME: Migal G ARunadann
-## REG NO: 212222110025
+#### NAME: Migal G ARunadann
+#### REG NO: 212222110025
 # Control of Relay Using IoT controller
 
 ##  AIM:
